@@ -1,1 +1,1 @@
-console.log('Hai ')
+alert('hai')
